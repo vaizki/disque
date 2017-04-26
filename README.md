@@ -1176,3 +1176,4 @@ I would like to say thank you to the following persons and companies.
 * Pivotal, for allowing me to work on Disque, most in my spare time, but sometimes during work hours. Moreover Pivotal agreed to leave the copyright of the code to me. This is very generous. Thanks Pivotal!
 * Michel Martens and Damian Janowski for providing early feedback about Disque while the project was still private.
 * Everybody who is already writing client libraries, sending pull requests, creating issues in order to move this forward from alpha to something actually usable.
+ 
